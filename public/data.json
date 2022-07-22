@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Dove Sensitive Beauty Bathing Bar",
+    "Image": {
+      "alt": "Dove Pink/Rosa Beauty Bathing Bar",
+      "path": "https://www.dove.com/content/dam/unilever/dove/india/pack_shot/front/skin_cleansing/skin_cleansing/dove_sensitive_soap75g/Dove_Sensitive_Soap_75g_8901030561184-308315.png.ulenscale.310x310.png"
+    },
+	"price": "Rs 70",
+    "link": "/product-detail",
+    "description": "Dove Pink/Rosa Beauty Bathing Bar combines a gentle cleansing formula with our signature ¼ moisturising cream with a delicate pink hue."
+  },
+  {
+    "id": 2,
+    "title": "Dove Original Cream Beauty Bathing Bar",
+    "Image": {
+      "alt": "Dove Original Cream Beauty Bathing Bar",
+      "path": "https://www.dove.com/content/dam/unilever/dove/india/pack_shot/front/skin_cleansing/skin_cleansing/dove_75_gms/Dove_Cream_Beauty_Soap_Bar_75g_8901030215902-308379.png.ulenscale.310x310.png"
+    },
+	"price": "Rs 70",
+    "link": "/product-detail/1",
+    "description": "With ¼ moisturizing cream, richly blended with its mildest cleansers, no other beauty bar has more skin-natural moisturizers than Dove Cream Beauty Bathing Bar. Everyday moisture is the key to beautiful skin. And who knows moisture better than Dove?"
+  },
+  {
+    "id": 3,
+    "title": "Dove go fresh moisture Beauty Bathing Bar",
+    "Image": {
+      "alt": "Dove go fresh moisture Beauty Bathing Bar",
+      "path": "https://www.dove.com/content/dam/unilever/dove/india/pack_shot/front/skin_cleansing/skin_cleansing/dove_fresh_moisturesoap75gms/Dove_Fresh%20Moisture_75g_8901030361463-308331.png.ulenscale.310x310.png"
+    },
+	"price": "Rs 70",
+    "link": "/product-detail/2",
+    "description": "Dove go fresh Beauty Bathing Bar combines the refreshing scent of cucumber and green tea with our gentle cleansers and ¼ moisturising cream, so you can enjoy skin that feels smooth and hydrated."
+  },
+  {
+    "id": 4,
+
+    "title": "Dove Pink/Rosa Beauty Bathing Bar",
+    "Image": {
+      "alt": "Dove Sensitive Beauty Bathing Bar",
+      "path": "https://www.dove.com/content/dam/unilever/dove/india/pack_shot/front/skin_care/skin_care_unidentified/26th_sep-644497.png.ulenscale.220x220.png"
+    },
+	"price": "Rs 70",
+    "link": "/product-detail/3",
+    "description": "If you have sensitive skin, you know how important it is to choose the right cleansing products. Good sensitive skin care depends on having a cleanser that truly cares for your skin and won't dry it out, and once you find something that works, you stick with it."
+  }
+]
