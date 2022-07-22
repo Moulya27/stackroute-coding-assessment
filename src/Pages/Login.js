@@ -23,10 +23,10 @@ function Login() {
 </div>
 <div class="row g-3 align-items-center mt-3">
   <div class="col-auto">
-    <label for="password" class="col-form-label">Password</label>
+    <label label for="inputPassword" class="col-form-label">Password</label>
   </div>
   <div class="col-auto">
-    <input type="text" value={password} onChange={(e)=>setPassword(e.target.value)}   id="password" class="form-control" aria-describedby="passwordHelpInline"/>
+    <input type="password" value={password} onChange={(e)=>setPassword(e.target.value)}   id="password" class="form-control" aria-describedby="passwordHelpInline"/>
   </div>
 </div>
 <div class="row g-3 align-items-center mt-3">
